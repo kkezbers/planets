@@ -1,2 +1,1 @@
-creating a new document named venus.txt
-
+Venus is beautiful and full of love
